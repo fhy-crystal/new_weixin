@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<SpriteFile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" CssFileName="../images" ImageName="img" IsPhone="false" SpriteImgFileType="Png" xmlns="CssSprite">
+  <SpriteList>
+    <Sprite Path="icon_plug.png" LocationX="0" LocationY="246" />
+    <Sprite Path="icon_other.png" LocationX="0" LocationY="39" />
+    <Sprite Path="icon_wall_switch.png" LocationX="0" LocationY="83" />
+    <Sprite Path="icon_remote.png" LocationX="0" LocationY="125" />
+    <Sprite Path="icon_sensor.png" LocationX="0" LocationY="168" />
+    <Sprite Path="icon_patch_board.png" LocationX="0" LocationY="217" />
+    <Sprite Path="图层-1.png" LocationX="0" LocationY="0" />
+  </SpriteList>
+</SpriteFile>
