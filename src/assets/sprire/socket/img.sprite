@@ -9,5 +9,6 @@
     <Sprite Path="rmac.png" LocationX="0" LocationY="420" />
     <Sprite Path="sp2c.png" LocationX="0" LocationY="210" />
     <Sprite Path="mp1.png" LocationX="0" LocationY="490" />
+    <Sprite Path="wifi_box.png" LocationX="0" LocationY="560" />
   </SpriteList>
 </SpriteFile>

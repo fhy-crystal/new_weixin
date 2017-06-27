@@ -31,6 +31,7 @@ import ws1 from '../../static/js/config/content/socket/ws1'
 import ws2 from '../../static/js/config/content/socket/ws2'
 import mp1 from '../../static/js/config/content/socket/mp1'
 import mp2 from '../../static/js/config/content/socket/mp2'
+import sc1 from '../../static/js/config/content/socket/sc1'
 
 // control
 import rmhome from '../../static/js/config/content/control/rmhome'
@@ -138,6 +139,9 @@ export default {
 				break;
 			case 'MP2': 
 				this.content = mp2;
+				break;
+			case 'SC1': 
+				this.content = sc1;
 				break;
 			// control
 			case 'RMhome': 

@@ -193,7 +193,7 @@ export default {
 	
 	// 智能插座
 	.socket {
-		background-size: pxtorem(70) pxtorem(560);
+		background-size: pxtorem(70) pxtorem(630);
 	}
 	.socket_icon0 {
 		background-position: 0 0;
@@ -227,6 +227,9 @@ export default {
 	}
 	.socket_icon10 {
 		background-position: 0 pxtorem(-420);
+	}
+	.socket_icon11 {
+		background-position: 0 pxtorem(-560);
 	}
 
 	// 智能排插

@@ -42,4 +42,8 @@ export default [{
 	title: 'RM AC（16A）',
 	subTitle: '空调Wi-Fi转换插座',
 	url: '/subCategory/socket/RMAC'
+},{
+	title: 'SC1',
+	subTitle: 'Wi-Fi控制盒',
+	url: '/subCategory/socket/SC1'
 }];
